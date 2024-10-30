@@ -1,0 +1,114 @@
+a.ctabutton {
+	text-decoration:none !important;
+	font-weight:900 !important;
+	padding:15px 10px;
+	display:inline-block;
+	background-repeat: repeat-x;
+	background-position: bottom left;
+	text-align: center;
+	background-size: contain;
+	min-width:200px;
+	color:#fff !important;
+}
+.ctabutton-rounded{
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;	
+}
+.ctabutton-container.ctabutton-blockleft{
+	display:block;
+	text-align:left;
+}
+.ctabutton-container.ctabutton-blockcenter{
+	display:block;
+	text-align:center;
+}
+.ctabutton-container.ctabutton-blockright{
+	display:block;
+	text-align:right;
+}
+.ctabutton-container.ctabutton-inline{
+	display:inline-block;	
+}
+.ctabutton-container.ctabutton-floatleft{
+	display:block;
+	float:left;	
+}
+.ctabutton-container.ctabutton-floatright{
+	display:block;
+	float:right;	
+}
+.ctabutton-container{
+	display:inline-block;
+	margin:5px;
+}
+a.ctabutton:hover {
+	opacity:0.9;
+	background-size:contain;
+	filter: alpha(opacity=90);
+}	
+.mcjh-custom-color, .mcjh-custom-color:hover {
+	color:#fff !important;
+}
+.mcjh-blue, .mcjh-blue:hover {
+	background: url(../../bg/button_trans_3.png);
+	border:1px solid #0f5b93;
+	background-color:#4a96ce;
+}
+.mcjh-darkblue, .mcjh-darkblue:hover {
+	background: url(../../bg/button_trans_3.png);
+	border:1px solid #0f2093;
+	background-color:#4a5bce;
+}
+.mcjh-green, .mcjh-green:hover {
+	background: url(../../bg/button_trans_3.png);
+	border: 1px solid #57930f;
+	background-color:#92ce4a;
+}
+.mcjh-darkgreen, .mcjh-darkgreen:hover {
+	background: url(../../bg/button_trans_3.png);
+	border: 1px solid #356900;
+	background-color:#5cb400;
+}
+.mcjh-grey, .mcjh-grey:hover,.mcjh-lightgrey, .mcjh-lightgrey:hover{
+	background: url(../../bg/button_trans_3.png);
+	border: 1px solid #696969;
+	background-color:#9c9c9c;
+}
+.mcjh-darkgrey, .mcjh-darkgrey:hover{
+	background: url(../../bg/button_trans_3.png);
+	border: 1px solid #303030;
+	background-color:#535353;
+}
+.mcjh-orange, .mcjh-orange:hover{
+	background: url(../../bg/button_trans_3.png);
+	border:1px solid #a26a00;
+	background-color:#ffaf19;
+}
+.mcjh-pink, .mcjh-pink:hover{
+	background: url(../../bg/button_trans_3.png);
+	border:1px solid #a20090;
+	background-color:#ff19e6;
+}
+.mcjh-purple, .mcjh-purple:hover{
+	background:url(../../bg/button_trans_3.png);
+	border:1px solid #650f93;
+	background-color:#a04ace;
+}
+.mcjh-red, .mcjh-red:hover{
+	background:url(../../bg/button_trans_3.png);
+	border:1px solid #9a0807;	
+	background-color:#d54342;
+}
+.mcjh-yellow{
+	background:url(../../bg/button_trans_3.png);
+	border:1px solid #93860f;
+	background-color:#f8fa3d;
+}
+.mcjh-gold{
+	background:url(../../bg/button_gold.png);
+	border:1px solid #93860f;
+}
+.mcjh-custom{
+	background:url(../../bg/button_trans_3.png);
+}
